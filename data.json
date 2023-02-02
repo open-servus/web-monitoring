@@ -1,0 +1,14 @@
+{
+    "websites": [
+    {
+        "id" : "1",
+        "name" : "user1",
+        "url" : "https://www.google.com"
+    },
+    {
+        "id" : "2",
+        "name" : "user2",
+        "url" : "https://www.testnotvalid.com/"
+    }
+    ]
+}
